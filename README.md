@@ -15,8 +15,7 @@
 ---
 
 ## ✨ Features
-- 🔒 **Skin Enforcement System** (T1 - T8 Checks)
-- 🚫 **Device Spoof Detection** (Jailbreak, Emulator checks)
+- 🚫 **Device Spoof Detection**
 - ⚔️ **Invalid Character Name Detection**
 - ⚙️ **Auto Kick/Ban Automation**
 - 🎮 **Full Realms Compatibility**
